@@ -15,6 +15,7 @@ It only works on web and desktop versions (Windows, Linux, MacOS), not on mobile
   Live Preview Example (Older Version):
   ![image](https://cdn.discordapp.com/attachments/1061731065980518400/1101214632535916544/image.png)
 
+Note that you have to go on video for to get all the information.
   
   <details>
     <summary>Console Code</summary>
